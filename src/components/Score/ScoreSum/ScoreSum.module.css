@@ -1,0 +1,18 @@
+.scoreSum,
+.scoreTitle {
+  /* margin-top: 10px;
+  margin-bottom: 10px; */
+  display: inline-table;
+  border: 1px solid Blue;
+  min-width: 150px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.scoreSum {
+  padding-inline: 10px;
+}
+
+.scoreTitle {
+  padding-inline: 50px;
+}

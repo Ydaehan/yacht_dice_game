@@ -1,0 +1,17 @@
+.parent {
+  display: flex;
+}
+
+.child {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.diceCanvas:hover {
+  cursor: pointer;
+  background-color: aliceblue;
+}
+
+.diceCanvas.active {
+  background-color: red;
+}
